@@ -1,0 +1,1 @@
+This project has a purpose of implementing socket library into python, and act like a real port scanner. The goal is to create a script that is user friendly, and takes arguments just like other popular tools, e.g. nmap.
